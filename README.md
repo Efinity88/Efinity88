@@ -12,7 +12,7 @@ https://www.coursera.org/account/accomplishments/certificate/ANB7GV9EX66X)
 - [SQL for Data Science](
 https://www.coursera.org/account/accomplishments/certificate/PR3GHSY9ZDJW)
 - [Data Analysis with Python](https://www.coursera.org/account/accomplishments/certificate/92VTAYYGHNM6)
-- [Excel Basics for Data Analysis] (https://www.coursera.org/account/accomplishments/certificate/AAZXTL53HU4X)
+- [Excel Basics for Data Analysis](https://www.coursera.org/account/accomplishments/certificate/AAZXTL53HU4X)
 
 
 <h2> 🤳 Connect with me:</h2>
