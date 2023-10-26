@@ -8,7 +8,7 @@
   - [Sports Retail](https://github.com/Efinity88/SportsRetail)
   - [NYC School Data](https://github.com/Efinity88/NYCSchoolData)
 
-<h2> Certification </h2>
+<h2> Certifications </h2>
 
 - [Fundamentals of Visualization with Tableau](
 https://www.coursera.org/account/accomplishments/certificate/ANB7GV9EX66X)
