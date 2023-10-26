@@ -2,8 +2,11 @@
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Projcts using SQL</b>
+  - [World Debt](https://github.com/Efinity88/WorldDebtProject)
+  - [Oldest Businesses](https://github.com/Efinity88/OldestBusinesses)
+  - [Sports Retail](https://github.com/Efinity88/SportsRetail)
+  - [NYC School Data](https://github.com/Efinity88/NYCSchoolData)
 
 <h2> Certification </h2>
 
