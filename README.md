@@ -1,6 +1,6 @@
 <h1>Hi, I'm Ernest! </h1>
 
-<h2>👨‍💻 Data Analytics Projects:</h2>
+<h2>👨‍💻 Data Analyst Projects:</h2>
 
 - <b>Projcts using SQL</b>
   - [World Debt](https://github.com/Efinity88/WorldDebtProject)
