@@ -3,6 +3,7 @@
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
 - <b>Projcts using SQL</b>
+  - [Soccer Insights](https://github.com/Efinity88/Soccer_Insights)
   - [World Debt](https://github.com/Efinity88/WorldDebtProject)
   - [Oldest Businesses](https://github.com/Efinity88/OldestBusinesses)
   - [Sports Retail](https://github.com/Efinity88/SportsRetail)
