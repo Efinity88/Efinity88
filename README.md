@@ -8,6 +8,7 @@
   - [Oldest Businesses](https://github.com/Efinity88/OldestBusinesses)
   - [Sports Retail](https://github.com/Efinity88/SportsRetail)
   - [NYC School Data](https://github.com/Efinity88/NYCSchoolData)
+  - [OlympicData](https://github.com/Efinity88/OlympicData)
 
 <h2> Certifications </h2>
 
