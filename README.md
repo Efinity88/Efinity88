@@ -9,6 +9,10 @@
   - [Sports Retail](https://github.com/Efinity88/SportsRetail)
   - [NYC School Data](https://github.com/Efinity88/NYCSchoolData)
   - [OlympicData](https://github.com/Efinity88/OlympicData)
+ 
+- <b>Projcts using R</b>
+  - [Red Tech30](https://github.com/Efinity88/RedTech30)
+
 
 <h2> Certifications </h2>
 
