@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
-- <b>Projcts using SQL</b>
+- <b>Projects using SQL</b>
   - [Soccer Insights](https://github.com/Efinity88/Soccer_Insights)
   - [World Debt](https://github.com/Efinity88/WorldDebtProject)
   - [Oldest Businesses](https://github.com/Efinity88/OldestBusinesses)
@@ -10,7 +10,7 @@
   - [NYC School Data](https://github.com/Efinity88/NYCSchoolData)
   - [OlympicData](https://github.com/Efinity88/OlympicData)
  
-- <b>Projcts using R</b>
+- <b>Projects using R</b>
   - [Red Tech30](https://github.com/Efinity88/RedTech30)
 
 
