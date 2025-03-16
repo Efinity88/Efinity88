@@ -11,13 +11,13 @@
   - [OlympicData](https://github.com/Efinity88/OlympicData)
 
 <h2> Certifications </h2>
-- [IO Sphere](https://app.teachfloor.com/io-sphere/certificates/DWGBkEla955p1Abz)
-- [R For Data Science: Analysis and Visualisation](https://www.linkedin.com/learning/certificates/317fceab7397a0f47b67562c7ab1e96b42e724f8e2fbf4f62cd7670fda28dd75)
-- [Complete Your First Project in R](https://www.linkedin.com/learning/certificates/39df48ab140c8b653220b4dfbf40401f94a9146844c42afcf4635952d36f5c33)
-- [Fundamentals of Visualization with Tableau](https://www.coursera.org/account/accomplishments/certificate/ANB7GV9EX66X)
-- [SQL for Data Science](https://www.coursera.org/account/accomplishments/certificate/PR3GHSY9ZDJW)
-- [Data Analysis with Python](https://www.coursera.org/account/accomplishments/certificate/92VTAYYGHNM6)
-- [Excel Basics for Data Analysis](https://www.coursera.org/account/accomplishments/certificate/AAZXTL53HU4X)
+- [IO Sphere](https://app.teachfloor.com/io-sphere/certificates/DWGBkEla955p1Abz)  
+- [R For Data Science: Analysis and Visualisation](https://www.linkedin.com/learning/certificates/317fceab7397a0f47b67562c7ab1e96b42e724f8e2fbf4f62cd7670fda28dd75)  
+- [Complete Your First Project in R](https://www.linkedin.com/learning/certificates/39df48ab140c8b653220b4dfbf40401f94a9146844c42afcf4635952d36f5c33)  
+- [Fundamentals of Visualization with Tableau](https://www.coursera.org/account/accomplishments/certificate/ANB7GV9EX66X)  
+- [SQL for Data Science](https://www.coursera.org/account/accomplishments/certificate/PR3GHSY9ZDJW)  
+- [Data Analysis with Python](https://www.coursera.org/account/accomplishments/certificate/92VTAYYGHNM6)  
+- [Excel Basics for Data Analysis](https://www.coursera.org/account/accomplishments/certificate/AAZXTL53HU4X) 
 
 
 <h2> 🤳 Connect with me:</h2>
