@@ -12,6 +12,7 @@
  
 - <b>Projects using R</b>
   - [Red Tech30](https://github.com/Efinity88/RedTech30)
+  - [NFL-Draft-Insights](https://github.com/Efinity88/NFL-Draft-Insights)
 
 
 <h2> Certifications </h2>
@@ -30,6 +31,7 @@
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
 [linkedin](www.linkedin.com/in/ernest-abaya-3a924a1b8)
+[twitter](https://x.com/FebnInsights)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
